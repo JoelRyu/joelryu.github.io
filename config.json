@@ -1,0 +1,48 @@
+{
+  "data":{
+    "type": "notion",
+    "name": "9d04a65b20fb4aafa18f44ffd132c8f8"
+  },
+  "meta": {
+    "title": "Lifelog y Joel Ryu",
+    "description": "이것,저것,쓰기",
+    "image": "/static/ProductLog.png"
+  },
+  "logo": {
+    "image": "",
+    "text": "by Joel Ryu"
+  },
+  "header": {
+    "title": "Lifelog",
+    "description": "이것, 저것, 쓰기",
+    "menu": [      
+      {
+        "name": "",
+        "link": "https://example.com"
+      }
+    ]
+  },
+  "footer": {
+    "section": [      
+      {
+        "linkTitle": "",
+        "links": [
+          {
+            "name": "About",
+            "link": "#"
+          },
+          {
+            "name":"@ProductLogTheme",
+            "link":"https://github.com/apvarun/productlog-nextjs-theme"
+
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2021 Joel Ryu · All rights reserved"
+  },
+  "analytics": {
+    "type": "Google Analytics",
+    "id": ""
+  }
+}
